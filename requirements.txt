@@ -1,0 +1,12 @@
+
+streamlit
+tensorflow
+langchain
+streamlit_chat
+lime
+numpy
+pandas
+inference_sdk
+keras
+streamlit_option_menu
+langchain_groq
